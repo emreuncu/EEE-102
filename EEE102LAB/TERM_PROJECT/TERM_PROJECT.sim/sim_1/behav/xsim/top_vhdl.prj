@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TERM_PROJECT.srcs/sources_1/new/bcd_to_bin.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/bin_to_bcd.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/bin_to.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/clockdiv.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/conv.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/dec.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/ssd.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/ky.vhd" \
+"../../../../TERM_PROJECT.srcs/sources_1/new/top.vhd" \
+
+# Do not sort compile order
+nosort

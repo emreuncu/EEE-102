@@ -1,0 +1,13 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/bcd_to_bin.vhd,1671325045,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/conv.vhd;C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ky.vhd,,,bcd_to_bin,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/bin_to.vhd,1671365158,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/top.vhd,,,bin_to,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/bin_to_bcd.vhd,1671361641,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/bin_to.vhd;C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/conv.vhd,,,bin_to_bcd,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/clockdiv.vhd,1671393525,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ssd.vhd,,,clkdiv,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/conv.vhd,1671405810,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/top.vhd,,,conv,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/dec.vhd,1670174710,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ky.vhd,,,decoder,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ky.vhd,1671402003,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/top.vhd,,,pmodkypd,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ssd.vhd,1671394072,vhdl,C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/ky.vhd,,,displaycontroller,,,,,,,,
+C:/Xilinx/Projects/TERM_PROJECT/TERM_PROJECT.srcs/sources_1/new/top.vhd,1671404651,vhdl,,,,top,,,,,,,,
